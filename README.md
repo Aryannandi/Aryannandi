@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aryannandi
-- 👀 I’m interested in learning web dev and cyber
-- 🌱 I’m currently learning web dev
-- 💞️ I’m looking to collaborate on web dev projects
+- 👀 I’m interested in learning web dev and data science
+- 🌱 I’m currently learning machine learning
+- 💞️ I’m looking to collaborate on web dev or data science projects
 - 📫 How to reach me aryannandi73@gmail.com
 - 😄 Pronouns: he/him
 
